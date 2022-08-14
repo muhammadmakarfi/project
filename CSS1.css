@@ -1,0 +1,30 @@
+/* selctor {
+    property: value;
+} */
+
+h2, p{
+    color: #AA4139;
+    text-align: center;
+    border: 5px solid rgba(225, 176, 170, 0.9);
+}
+
+body{
+    background-image: url(assassins_creed_unity-1920x1080.jpg);
+    background-size: cover;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext{
+    border: 5px dotted black;
+    text-align: center;
+
+}
+
+#div1{
+    background-color: rgba(0, 0, 255, 0.2);
+    text-align: center;
+}
